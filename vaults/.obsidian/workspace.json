@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Begriffe_Terminology/nFeatures.md",
+                "file": "algos/normalization/LogNormalize.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Begriffe_Terminology/nFeatures.md",
+                "file": "algos/normalization/LogNormalize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Begriffe_Terminology/nFeatures.md",
+                "file": "algos/normalization/LogNormalize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Begriffe_Terminology/nFeatures.md"
+                "file": "algos/normalization/LogNormalize.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18589f29920626b0",
+  "active": "84daa1f15ebad3a3",
   "lastOpenFiles": [
+    "algos/normalization/Normalizations.md",
+    "algos/normalization/LogNormalize.md",
     "Begriffe_Terminology/nFeatures.md",
+    "algos/normalization",
+    "algos",
     "Begriffe_Terminology"
   ]
 }
