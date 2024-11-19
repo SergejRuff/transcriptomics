@@ -1,0 +1,208 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="#item_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1145/1629607.1629613">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0146-4833"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leiner</foaf:surname>
+                        <foaf:givenName>Barry M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cerf</foaf:surname>
+                        <foaf:givenName>Vinton G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenName>David D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kahn</foaf:surname>
+                        <foaf:givenName>Robert E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleinrock</foaf:surname>
+                        <foaf:givenName>Leonard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lynch</foaf:surname>
+                        <foaf:givenName>Daniel C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Postel</foaf:surname>
+                        <foaf:givenName>Jon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roberts</foaf:surname>
+                        <foaf:givenName>Larry G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wolff</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A brief history of the internet</dc:title>
+        <dcterms:abstract>This paper was first published online by the Internet Society in December 20031 and is being re-published in ACM SIGCOMM Computer Communication Review because of its historic import. It was written at the urging of its primary editor, the late Barry Leiner. He felt that a factual rendering of the events and activities associated with the development of the early Internet would be a valuable contribution. The contributing authors did their best to incorporate only factual material into this document. There are sure to be many details that have not been captured in the body of the document but it remains one of the most accurate renderings of the early period of development available.</dcterms:abstract>
+        <dc:date>October 7, 2009</dc:date>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1145/1629607.1629613</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 19:08:01</dcterms:dateSubmitted>
+        <bib:pages>22–31</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0146-4833">
+        <prism:volume>39</prism:volume>
+        <dc:title>SIGCOMM Comput. Commun. Rev.</dc:title>
+        <dc:identifier>DOI 10.1145/1629607.1629613</dc:identifier>
+        <prism:number>5</prism:number>
+        <dc:identifier>ISSN 0146-4833</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4402510/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0305-1048"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ritchie</foaf:surname>
+                        <foaf:givenName>Matthew E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Phipson</foaf:surname>
+                        <foaf:givenName>Belinda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Di</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Yifang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Law</foaf:surname>
+                        <foaf:givenName>Charity W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shi</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smyth</foaf:surname>
+                        <foaf:givenName>Gordon K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <link:link rdf:resource="#item_5"/>
+        <dc:title>limma powers differential expression analyses for RNA-sequencing and microarray studies</dc:title>
+        <dcterms:abstract>limma is an R/Bioconductor software package that provides an integrated solution for analysing data from gene expression experiments. It contains rich features for handling complex experimental designs and for information borrowing to overcome the problem of small sample sizes. Over the past decade, limma has been a popular choice for gene discovery through differential expression analyses of microarray and high-throughput PCR data. The package contains particularly strong facilities for reading, normalizing and exploring such data. Recently, the capabilities of limma have been significantly expanded in two important directions. First, the package can now perform both differential expression and differential splicing analyses of RNA sequencing (RNA-seq) data. All the downstream analysis tools previously restricted to microarray data are now available for RNA-seq as well. These capabilities allow users to analyse both RNA-seq and microarray data with very similar pipelines. Second, the package is now able to go past the traditional gene-wise expression analyses in a variety of ways, analysing expression profiles in terms of co-regulated sets of genes or in terms of higher-order expression signatures. This provides enhanced possibilities for biological interpretation of gene expression differences. This article reviews the philosophy and design of the limma package, summarizing both new and historical features, with an emphasis on recent enhancements and features that have not been previously described.</dcterms:abstract>
+        <dc:date>2015-4-20</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4402510/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-19 22:47:14</dcterms:dateSubmitted>
+        <dc:description>PMID: 25605792
+PMCID: PMC4402510</dc:description>
+        <bib:pages>e47</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0305-1048">
+        <prism:volume>43</prism:volume>
+        <dc:title>Nucleic Acids Research</dc:title>
+        <dc:identifier>DOI 10.1093/nar/gkv007</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>Nucleic Acids Res</dcterms:alternative>
+        <dc:identifier>ISSN 0305-1048</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC4402510/pdf/gkv007.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-19 22:47:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4402510/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-19 22:47:14</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>bulk_rna</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_3"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>methods</dc:title>
+        <dcterms:hasPart rdf:resource="#item_3"/>
+        <dcterms:hasPart rdf:resource="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4402510/"/>
+    </z:Collection>
+</rdf:RDF>

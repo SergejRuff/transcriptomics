@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "methods/limma paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "38cb93161874eaa0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b43332ad7fc895a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "limma paper"
             }
           }
         ]
@@ -180,6 +164,8 @@
   },
   "active": "afb4e8eef959cc47",
   "lastOpenFiles": [
-    "Welcome.md"
+    "methods/limma paper.md",
+    "Welcome.md",
+    "methods"
   ]
 }
